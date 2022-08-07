@@ -1,0 +1,23 @@
+---
+layout: default
+modal-id: 2
+date: 2014-04-01
+img: cake.png
+alt: image-alt
+project-date: April 2014
+client: Instant Pickup, Web Element
+category: Web Development
+description: ## Features
+- Windows, Linux (Ubuntu, Debian), Mac Os experience 
+- Static/responsive ( mobile / tablet ) sites 
+- Different browser sites compatibility (old one too) 
+- MVC from scratch programming experience 
+- Wordpress, theme customization 
+- Woocommerce, WpForms, Stripe 
+- Jekyll, Leaflet CMS, Git Pages, Gitlab Pages 
+- Javascript, JQuery, PHP, HTML, CSS 
+- Redux Framework 
+- Google Maps, Mapbox API 
+- Photoshop / Gimp 
+- LAMP, console win/Linux, MariaDB
+---

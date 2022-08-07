@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2022-05-01
+img: game.png
+alt: image-alt
+project-date: May 2022
+client: Start Bootstrap
+category: ThreeJS
+description: ThreeJS Exterior converted from SketchUp to web. You can use markers Signs to see the places names.
+---

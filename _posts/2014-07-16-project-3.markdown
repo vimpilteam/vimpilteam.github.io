@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2017-06-01
+img: circus.png
+alt: image-alt
+project-date: June 2017
+client: Start Bootstrap
+category: Web Development
+description: Freelance practices of Web Development. Html, Css, Javascript (Jquery),
+PHP (Wordpress), Liquide (Jekyll, Github Pages), Google Maps API, crossbrowser and mobile site compatibility, LAMP, Linux Debian environment, Sublime/Vim, Gimp. As part of my job I created a commercial site tool: http://instantpickup.delivery/ (multi step registration)
+---
