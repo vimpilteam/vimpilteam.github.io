@@ -2,13 +2,13 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator>
-  <link href="https://github.com/jeromelachaud/freelancer-theme/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="https://github.com/jeromelachaud/freelancer-theme/" rel="alternate" type="text/html" />
-  <updated>2022-08-07T03:46:55-07:00</updated>
-  <id>https://github.com/jeromelachaud/freelancer-theme/</id>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2022-08-07T03:36:22-07:00</updated>
+  <id>http://localhost:4000/</id>
 
   
-    <title type="html">3d Web - Developer</title>
+    <title type="html">3d Web Developer</title>
   
 
   
@@ -21,11 +21,11 @@
   
     <entry>
       <title type="html">Project 4</title>
-      <link href="https://github.com/jeromelachaud/freelancer-theme/" rel="alternate" type="text/html" title="Project 4" />
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 4" />
       <published>2022-05-01T00:00:00-07:00</published>
       <updated>2022-05-01T00:00:00-07:00</updated>
-      <id>https://github.com/jeromelachaud/freelancer-theme/project-4</id>
-      <content type="html" xml:base="https://github.com/jeromelachaud/freelancer-theme/"></content>
+      <id>http://localhost:4000/project-4</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
 
       
       
@@ -55,11 +55,11 @@
   
     <entry>
       <title type="html">Project 3</title>
-      <link href="https://github.com/jeromelachaud/freelancer-theme/" rel="alternate" type="text/html" title="Project 3" />
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 3" />
       <published>2017-06-01T00:00:00-07:00</published>
       <updated>2017-06-01T00:00:00-07:00</updated>
-      <id>https://github.com/jeromelachaud/freelancer-theme/project-3</id>
-      <content type="html" xml:base="https://github.com/jeromelachaud/freelancer-theme/"></content>
+      <id>http://localhost:4000/project-3</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
 
       
       
@@ -89,11 +89,11 @@
   
     <entry>
       <title type="html">Project 2</title>
-      <link href="https://github.com/jeromelachaud/freelancer-theme/" rel="alternate" type="text/html" title="Project 2" />
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 2" />
       <published>2014-04-01T00:00:00-07:00</published>
       <updated>2014-04-01T00:00:00-07:00</updated>
-      <id>https://github.com/jeromelachaud/freelancer-theme/project-2</id>
-      <content type="html" xml:base="https://github.com/jeromelachaud/freelancer-theme/"></content>
+      <id>http://localhost:4000/project-2</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
 
       
       
@@ -123,11 +123,11 @@
   
     <entry>
       <title type="html">Project 1</title>
-      <link href="https://github.com/jeromelachaud/freelancer-theme/" rel="alternate" type="text/html" title="Project 1" />
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 1" />
       <published>2012-07-18T00:00:00-07:00</published>
       <updated>2012-07-18T00:00:00-07:00</updated>
-      <id>https://github.com/jeromelachaud/freelancer-theme/project-1</id>
-      <content type="html" xml:base="https://github.com/jeromelachaud/freelancer-theme/"></content>
+      <id>http://localhost:4000/project-1</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
 
       
       
