@@ -7,17 +7,16 @@ alt: image-alt
 project-date: April 2014
 client: Instant Pickup, Web Element
 category: Web Development
-description: ## Features
-- Windows, Linux (Ubuntu, Debian), Mac Os experience 
-- Static/responsive ( mobile / tablet ) sites 
-- Different browser sites compatibility (old one too) 
-- MVC from scratch programming experience 
-- Wordpress, theme customization 
-- Woocommerce, WpForms, Stripe 
-- Jekyll, Leaflet CMS, Git Pages, Gitlab Pages 
-- Javascript, JQuery, PHP, HTML, CSS 
-- Redux Framework 
-- Google Maps, Mapbox API 
-- Photoshop / Gimp 
-- LAMP, console win/Linux, MariaDB
+list1: Windows, Linux (Ubuntu, Debian), Mac Os experience 
+list2: Static/responsive ( mobile / tablet ) sites 
+list3: Different browser sites compatibility (old one too) 
+list4: MVC from scratch programming experience 
+list5: Wordpress, theme customization 
+list6: Woocommerce, WpForms, Stripe 
+list7: Jekyll, Leaflet CMS, Git Pages, Gitlab Pages
+list8: Redux Framework 
+list9: Google Maps, Mapbox API 
+list10: Photoshop / Gimp 
+list11: LAMP, console win/Linux, MariaDB
+description: /
 ---

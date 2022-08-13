@@ -1,10 +1,10 @@
 # Site settings
-title: 3d Web Developer
+title: 3D web is the solution
 email: vimpil04@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer Front/Back - 3d Designer/CAD modeler - 3d WEB Developer"
+skills: "+3 years Frontend/Backend Web Developer +10 years 3D Artist & CAD Designer + COMBO 3D WEB Developer"
 meta_author: Shevchenko Kirill
 
 # Google webmaster tools
@@ -56,11 +56,11 @@ address:
   - line: 
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelancer theme is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+#permalink: pretty
 
 #for posts
 defaults:

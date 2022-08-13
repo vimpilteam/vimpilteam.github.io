@@ -94,7 +94,7 @@
 								</ul>
                             {% endif %}
 							{% if post.linkA %}
-							<a href="{{ post.linkA }}">https://youtubeshot.github.io/</a>
+							<a href="{{ post.linkA }}">href</a>
 							{% endif %}
                             <ul class="list-inline item-details">
                                 {% if post.clhttps://townstar.sandbox-games.com/files/assets/24720670/1/icon_remove.png?t=5045f6364491345f9af14137cca341ddient %}

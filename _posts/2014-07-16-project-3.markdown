@@ -7,6 +7,12 @@ alt: image-alt
 project-date: June 2017
 client: Start Bootstrap
 category: Web Development
-description: Freelance practices of Web Development. Html, Css, Javascript (Jquery),
-PHP (Wordpress), Liquide (Jekyll, Github Pages), Google Maps API, crossbrowser and mobile site compatibility, LAMP, Linux Debian environment, Sublime/Vim, Gimp. As part of my job I created a commercial site tool: http://instantpickup.delivery/ (multi step registration)
+list1: Freelance practices of Web Development.
+list2: Html, Css, Javascript (Jquery)
+list3: PHP (Wordpress)
+list4: Liquide (Jekyll, Github Pages)
+list5: Google Maps API
+list6: Crossbrowser and mobile site compatibility
+list7: LAMP, Linux Debian environment, Sublime/Vim, Gimp
+description: /
 ---
