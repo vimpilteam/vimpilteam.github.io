@@ -7,10 +7,15 @@ alt: image-alt
 project-date: November 2012 — January 2016
 client: Attis Design Company
 category: Jewelry CAD Designer
-description: ## Features
-- Experience with Unity 3d, models, and basic scripting, customizing plugins for interactive demonstrations.
-- Drag and drop images (requires your Dropbox account be linked)
-- Texturing\baking, basic rigging and animation, high- and low- poly modeling; NURBS/poly modeling.
-- Adapting 3d max scene to Unity 3d engine; Scene light setup, Photoshop render post-editing. 
-- Models for 3d printing; CNC; CNC operator (DeskProto, RhinoCam). www.deviantart.com/vaderetrosatan
+
+list1: Experience with Unity 3d, models, and basic scripting, customizing plugins for interactive demonstrations.
+
+list2: Drag and drop images (requires your Dropbox account be linked)
+
+list3: Texturing\baking, basic rigging and animation, high- and low- poly modeling; NURBS/poly modeling.
+
+list4: Adapting 3d max scene to Unity 3d engine; Scene light setup, Photoshop render post-editing. 
+
+list5: Models for 3d printing; CNC; CNC operator (DeskProto, RhinoCam). www.deviantart.com/vaderetrosatan
+description: /
 ---
